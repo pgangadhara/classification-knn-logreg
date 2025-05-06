@@ -23,4 +23,4 @@ The dataset is available in the repository as `UniversalBank.csv`.
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/classification-knn-logreg.git
+   git clone https://github.com/pgangadhara/classification-knn-logreg.git
